@@ -6,7 +6,8 @@ namespace enthusiastic_moose
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("testing");
+            Console.WriteLine("Welcome to the Enthusiastic Moose Simulator!");
+            Console.WriteLine("--------------------------------------------");
         }
     }
 }
